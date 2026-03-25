@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "<Your Name> Personal Website"
+  title: "Enoch's Fweaky Dungeon"
   search:
     location: navbar
     type: overlay
@@ -21,6 +21,8 @@ website:
         href: aboutme.qmd
       - text: "Projects"
         href: proj.qmd
+      - text: "Fweaky"
+        href: fweaky.qmd
 
 format:
   html:
@@ -55,8 +57,8 @@ format:
           &lt;Your Name&gt; Personal Website
         </div>
 
-site-url: "https://<yourusername>.github.io/<repositoryname>/"
-repo-url: "https://github.com/<yourusername>/<repositoryname>"
+site-url: "https://enochljoo.github.io/Website-Workshop/"
+repo-url: "https://github.com/enochljoo/Website-Workshop"
 repo-actions: [edit, issue]
 
 editor: visual
